@@ -12,7 +12,7 @@ emoji==2.2.0
 tensorflow==2.11.0
 ```
 3. Check if below files are in './data' folder, if not, move these files into it
-> * intern_homework_private_test_dataset.csv
-> * intern_homework_public_test_dataset.csv
-> * intern_homework_train_dataset.csv
+> * private_test_dataset.csv
+> * public_test_dataset.csv
+> * train_dataset.csv
 4. Start your journey on the jupyter notebook `article_like_24h_predict.ipynb`
